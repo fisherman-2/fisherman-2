@@ -1,4 +1,3 @@
 ## fisherman-2
 hello i am fisherman-2 as you are on my profile i dont know why you are here but the snake is going to get you. HISSSSS
 
-<p align="center"><img src="https://raw.githubusercontent.com/fisherman-2/webfishing/refs/heads/main/static/img/webfishinglogo.png" /></p>
